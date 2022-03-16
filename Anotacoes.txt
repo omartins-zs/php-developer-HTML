@@ -1,0 +1,28 @@
+
+
+Anotações 📄✏️
+
+
+Descrição das Aulas
+
+Modulo HTML - Bônus
+
+ - O que é HTML? Requisitos básicos	 
+ - Sintaxe básica do HTML	 
+ - Trabalhando com texto	 
+ - Criar parágrafos	 
+ - Como usar cores no HTML	 
+ - Formatar texto com HTML	 
+ - Criar lista ordenada e não ordenada	 
+ - Criar link com HTML	 
+ - Inserir imagem com HTML	 
+ - Criar tabelas com HTML	 
+ - Como criar formulário	 
+ - Criar formulário com radio e checkbox	 
+ - Criar fomulário com campo SELECT, textarea e botão
+ 
+ 
+ 
+Gerador de texto [Lorem Ipsum](https://www.lipsum.com/)
+
+Paleta de cores [Adobe Color] | https://color.adobe.com/pt/create/color-wheel

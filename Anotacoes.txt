@@ -32,3 +32,6 @@ Extensao:
 Live-server
 
 vscode-pdf 
+
+
+Criar pasta de aulas
